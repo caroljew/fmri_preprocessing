@@ -1,4 +1,4 @@
-function visualize_movement(subjIDbase, dirStructure, outputFileName, outputDir)
+function visualizeRpFiles(subjIDbase, dirStructure, outputFileName, outputDir)
 %%%%% Visualize motion regressor files
 %%%%% Written by Carol Jew (January 18, 2018)
 %%%%% carol.jew@rochester.edu
