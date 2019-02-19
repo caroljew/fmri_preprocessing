@@ -1,4 +1,4 @@
-function concatenate_rp_files(subjIDbase, dirStructure, outputFileName, outputDir)
+function concatenateRpFiles(subjIDbase, dirStructure, outputFileName, outputDir)
 %%%%% Concatenate motion regressor files
 %%%%% Written by Carol Jew (January 18, 2018)
 %%%%% carol.jew@rochester.edu
